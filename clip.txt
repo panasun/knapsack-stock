@@ -1,0 +1,299 @@
+    1  python -V
+    2  pip -V
+    3  python3 -V
+    4  pip3 -V
+    5  sudo apt-get install python3-pip
+    6  sudo apt-get install tmux
+    7  ls
+    8  cd ..
+    9  ls
+   10  dir
+   11  ls
+   12  cd natthawut_wangwan/
+   13  ls
+   14  mkdir code
+   15  ls
+   16  cd c
+   17  cd code/
+   18  nano test.py
+   19  ls
+   20  python3 test.py
+   21  cd ..
+   22  ls
+   23  cd code/
+   24  ls
+   25  dir
+   26  ls -l
+   27  nano output.txt
+   28  ls
+   29  nano output.txt
+   30  ls
+   31  cd /home/code
+   32  cd /home/natthawut_wangwan/code
+   33  nano test.py
+   34  nano test2.py
+   35  python3 test2.py
+   36  ls
+   37  del test.py
+   38  delete test.py
+   39  rm test.py
+   40  rm e
+   41  ls
+   42  rm test2.py
+   43  ls
+   44  nano test.py
+   45  ls
+   46  python3 test.py
+   47  cd /home/natthawut.wangwan/
+   48  ls
+   49  cd ..
+   50  cd
+   51  ls
+   52  cd ../code/
+   53  ls
+   54  cd ..
+   55  ls
+   56  cd ../natthawut_wangwan/code/
+   57  cd ..
+   58  ls
+   59  cd /home/
+   60  ls
+   61  mkdir output
+   62  cd 
+   63  ls
+   64  cd code
+   65  ls
+   66  rm test.py 
+   67  nano test.py
+   68  ls
+   69  python3 test.py
+   70  nano t2.py
+   71  python3 t2.py
+   72  nano t2.py 
+   73  python3 t2.py
+   74  nano t2.py 
+   75  python3 t2.py
+   76  nano t2.py 
+   77  python3 t2.py
+   78  nano t2.py 
+   79  python3 t2.py
+   80  ls
+   81  nano output.txt
+   82  nano t3.py
+   83  python3 t3.py
+   84  nano t3.py 
+   85  python3 t3.py
+   86  nano output.txt
+   87  nano t3.py 
+   88  ls
+   89  rm t2.py
+   90  rm test.py
+   91  ls
+   92  nano t1.py
+   93  python3 t1.py
+   94  nano t1.py
+   95  ls
+   96  python3 t3.py
+   97  nano t3
+   98  nano t3.py
+   99  python3 t3.py
+  100  nano t3.py
+  101  python3 t3.py
+  102  nano t3.py
+  103  python3 t3.py
+  104  nano t3.py
+  105  python3 t3.py
+  106  nano t3.py
+  107  python3 t3.py
+  108  copy t3.py t3_bak.py
+  109  cp t3.py t3_bak.py
+  110  ls
+  111  nano t3.py 
+  112  python3 t3.py
+  113  ls
+  114  nano output.txt 
+  115  python3 t3.py
+  116  nano output.txt 
+  117  nano t3.py 
+  118  python3 t3.py
+  119  nano t3.py 
+  120  python3 t3.py
+  121  ls
+  122  nano t3.py 
+  123  cd
+  124  cd ..
+  125  ls
+  126  cd natthawut_wangwan/
+  127  ls
+  128  cd code/
+  129  ls
+  130  python3 t3.py
+  131  ls
+  132  rm output.txt 
+  133  python3 t3.py
+  134  ls
+  135  nano output.txt 
+  136  nano t3.py
+  137  sudo launchctl limit maxfiles 10000000 10000000
+  138  nano t3.py
+  139  nano t4.py
+  140  python3 t4.py
+  141  nano t4.py
+  142  python3 t4.py
+  143  nano t4.py
+  144  python3 t4.py
+  145  python3 t4.py
+  146  nano t4.py
+  147  python3 t4.py
+  148  ls
+  149  nano t4.py
+  150  python3 t4.py
+  151  ls
+  152  cd code/
+  153  ls
+  154  ls -l
+  155  cat log_test_EQ_K.txt 
+  156  ls
+  157  ls -l
+  158  nano log_test_GT_K.txt 
+  159  ls -l
+  160  ls log*
+  161  rm log*
+  162  ls 
+  163  nano GT_K.txt 
+  164  ls -l
+  165  nano t4.py 
+  166  ls -l
+  167  nano t4.py 
+  168  ls -l
+  169  rm *.txt
+  170  ls -l
+  171  nano t1.py
+  172  nano t3.py 
+  173  nano t4.py 
+  174  ls -l
+  175  nano t4.py 
+  176  ls -l
+  177  nano t4.py 
+  178  ls-l
+  179  ls -l
+  180  nano t4.py 
+  181  clear
+  182  ls -l
+  183  exit
+  184  exit
+  185  สห ขส
+  186  ls -l
+  187  cd code/
+  188  ls -l
+  189  nano t4.py
+  190  cd code/
+  191  ls -l
+  192  tail -10 LT.txt 
+  193  ls -l
+  194  tail -10 LT.txt 
+  195  tail -10 GT_K.txt 
+  196  ls -l
+  197  ls *.txt
+  198  rm *.txt
+  199  ls -l
+  200  สห ขส
+  201  ls -l
+  202  สห ขส
+  203  ls -l
+  204  nano t4.py
+  205  ls -l
+  206  สห ขส
+  207  ls -l
+  208  na no t4.py
+  209  ls -l
+  210  cd code/
+  211  ls -l 
+  212  nano t4.py
+  213  cd ..
+  214  ls -l
+  215  cd code/
+  216  ls -l
+  217  สห ขส
+  218  ls -l
+  219  clear
+  220  ls -l
+  221  nano t4.py
+  222  ls -l
+  223  ls
+  224  cd code
+  225  ls
+  226  pythom3 t4.py
+  227  python3 t4.py
+  228  ls -l
+  229  nano t4.py
+  230  python3 t4.py
+  231  python -V
+  232  sudo apt udate
+  233  sudo apt update
+  234  sudo apt install python3.7
+  235  python3.7
+  236  python -m pip install --user ortools
+  237  sudo apt-get -y install python3-dev python3-wheel python3-setuptools python3-six
+  238  python -m pip install -U --user ortools
+  239  sudo python -m pip install -U ortools
+  240  sudo apt install python3-pip
+  241  sudo python -m pip install -U ortools
+  242  sudo python -m pip3 install -U ortools
+  243  pip3 --version
+  244  sudo python3.7 -m pip3 install -U ortools
+  245  python3.7
+  246  python3.7 -m pip3 install -U ortools
+  247  python3.7 -m pip install -U ortools
+  248  git clone  https://github.com/panasun/knapsack-stock.git
+  249  sudo apt install git-all
+  250  git clone  https://github.com/panasun/knapsack-stock.git
+  251  ls
+  252  cd knapsack-stock/
+  253  ls
+  254  python3.7 knapsack-est.py 
+  255  pip install numpy
+  256  python3.7 pip install numpy
+  257  python3.7 -m  pip install numpy
+  258  python3.7 knapsack-est.py 
+  259  ls
+  260  vi knapsack-est.py 
+  261  python3.7 knapsack-est.py 
+  262  ls
+  263  cat output.txt 
+  264  head output.txt 
+  265  git ls
+  266  git status
+  267  git add knapsack-est.py
+  268  git add output.txt
+  269  git commit -m "Output"
+  270  git config --global user.email "talovely@gmail.com"
+  271  git commit -m "Output"
+  272  git config --global user.name "talovely"
+  273  git commit -m "Output"
+  274  git push -u origin master
+  275  git checkout -b develop
+  276  git push -u origin develop
+  277  git push -u origin devel
+  278  git push -u origin master
+  279  git status
+  280  git checkout master
+  281  git status
+  282  git pull
+  283  head input.txt 
+  284  vi input.txt 
+  285  python3.7 knapsack-est.py 
+  286  ls -l
+  287  vi knapsack-est.py 
+  288  history
+  289  cat history | xclip -sel clip
+  290  xsel
+  291  sudo apt install xclip
+  292  cat history | xclip -sel clip
+  293  history | xclip -sel clip
+  294  history
+  295  xcel
+  296  xclip
+  297  xclip -sel clip
+  298  history | xclip -sel clip
+  299  history >> clip.txt

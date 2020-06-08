@@ -61,7 +61,7 @@ def main():
   values_input = fp.read().split('\n')
   values = list(map(int, values_input))
   W = 301715126
-  N = 100
+  N = 1000
   processes = 4
   montecarlo(values, W, N, processes)
 
